@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "718711641",
+    "firebase_url": "https://meetair-736airebaseio.com",
+    "project_id": "meetai36a5",
+    "storage_bucket": "meetair-736a5pot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71828771164oid:369647 ",
+        "android_client_info": {
+          "package_name": "com.spagreen "
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718287711641-98sn70dgq7tc9ltc0hq6tm4hmhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreetair",
+            "certificate_hash": "4b8f6522d64da3f474d999a551a3998bb3"
+          }
+        },
+        {
+          "client_id": "718287711641-8r87qfuq77p9991jn7g8ok74468.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagretair",
+            "certificate_hash": "b799c3c5fb096c4177a6013f6c13abe614"
+          }
+        },
+        {
+          "client_id": "718287711641-d6phgl96ijuhqd6en4esabr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spaetair",
+            "certificate_hash": "6843d7a7fb030a18efc466ade9"
+          }
+        },
+        {
+          "client_id": "718287711641-ri8d1r2gesqklu3u415bfo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagetair",
+            "certificate_hash": "52f420f5d753643984f7cd305c0d20c12671dd"
+          }
+        },
+        {
+          "client_id": "718287711641-mf0cjli1pipv0tdtjkvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTjW8pxptKLPjPsvavE9F3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718287711641-mf0cjli1pipgmm85omjkvh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718287711641-c179tk5edgoqnudmg9181tttscjf4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spaeetair"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
